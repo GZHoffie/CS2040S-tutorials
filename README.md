@@ -4,4 +4,4 @@ This repository contains tutorial slides for CS2040S, Data Structures and Algori
 
 ## Topics covered in each tutorial
 
-- [Tutorial 1](./t1.pdf): Asymptotic Analysis, Big-O notation, running time analysis of algorithms.
+- [Tutorial 1](./t1/t1.pdf): Asymptotic Analysis, Big-O notation, running time analysis of algorithms.

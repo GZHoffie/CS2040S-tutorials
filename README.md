@@ -1,6 +1,8 @@
-# CS2040S Tutorials
+![](https://www.comp.nus.edu.sg/templates/t3_nus2015/images/assets/logos/logo.png)
 
-This repository contains tutorial slides for CS2040S, Data Structures and Algorithms (AY 2022/2023 Semester 1), taught by Dr. Chong Ket Fah, National University of Sinapore. The slides are partly adopted from tutorial slides by [Wang Zhi Jian](wzhijian@u.nus.edu). 
+# CS2040S Data Structures and Algorithms - Tutorials
+
+This repository contains tutorial slides for CS2040S, *Data Structures and Algorithms* (AY 2022/2023 Semester 1), taught by Dr. Chong Ket Fah, National University of Sinapore. The slides are partly adopted from tutorial slides by [Wang Zhi Jian](wzhijian@u.nus.edu). 
 
 ## Topics covered in each tutorial
 
